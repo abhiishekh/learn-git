@@ -1,0 +1,2 @@
+Hello this is just an example to write in a file
+This is something new
